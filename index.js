@@ -37,7 +37,7 @@ app.use(errorHandler);
 app.use(notFoundErrorHandler);
 
 
-// starting he Server
+// starting the Server
 const PORT = process.env.PORT || 8000;
 app.listen(PORT, ()=>{
     console.log(`Server running at http://localhost:${PORT}`);
