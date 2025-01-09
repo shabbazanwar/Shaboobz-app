@@ -8,9 +8,25 @@
 
     "keywords": [],
 
+    "homepage": "https://github.com/shabbazanwar/Shaboobz-app#readme",
+
+    "bugs": {
+
+        "url": "https://github.com/shabbazanwar/Shaboobz-app/issues"
+
+    },
+
+    "repository": {
+
+        "type": "git",
+
+        "url": "git+https://github.com/shabbazanwar/Shaboobz-app.git"
+
+    },
+
     "license": "ISC",
 
-    "author": "",
+    "author": "Shabbaz",
 
     "type": "module",
 
@@ -50,7 +66,9 @@
 
         "morgan": "^1.10.0",
 
-        "multer": "^1.4.5-lts.1"
+        "multer": "^1.4.5-lts.1",
+
+        "nodemailer": "^6.9.16"
 
     },
 
